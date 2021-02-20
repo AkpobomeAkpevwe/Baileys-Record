@@ -1,0 +1,58 @@
+/* global */
+
+body {
+    font-size: 20px;
+}
+
+.btn {
+    background: rgb(255, 186, 58);
+    color: #f4f4f4;
+    width: 100%;
+}
+
+#about .container-fluid,
+#contact .container-fluid,
+#services .container-fluid {
+    width: 80%;
+}
+
+
+/* navbar */
+
+#navbar1 {
+    background: black;
+    border-bottom: 3px solid rgb(255, 186, 58);
+}
+
+
+/* jumbotron */
+
+#jumbo1 {
+    background: url(../images/mix.jpg) 0 -500px;
+    color: #f4f4f4;
+}
+
+
+/* about */
+
+
+/* services */
+
+#services i {
+    font-size: 50px;
+}
+
+
+/* contact */
+
+#contact .container-fluid a {
+    color: #ccc;
+}
+
+#contact form
+/* footer */
+
+footer {
+    background: rgb(255, 186, 58);
+    color: #f4f4f4;
+}
